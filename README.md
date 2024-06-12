@@ -1,7 +1,7 @@
-Hi 👋 My name is NotYourAverageGamer
+Hi 👋 I'm NotYourAverageGamer
 ====================================
 
-I like to try developing projects in my spare time for fun or, that myself/others may find use in. I also try to contribute to projects I enjoy/support.
+I like to try developing projects for fun or, that myself/others may find use in. I also try to contribute to projects I enjoy/support.
 
 
 <picture>
@@ -11,7 +11,7 @@ I like to try developing projects in my spare time for fun or, that myself/other
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/NotYourAverageGamer/NotYourAverageGamer/blob/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/NotYourAverageGamer/NotYourAverageGamer/blob/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
