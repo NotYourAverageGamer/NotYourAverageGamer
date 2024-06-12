@@ -31,16 +31,21 @@ I like to try developing projects in my spare time for fun or, that myself/other
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=NotYourAverageGamer&theme=merko" alt="NotYourAverageGamer's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
+        <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=NotYourAverageGamer&theme=merko" alt="NotYourAverageGamer's Contribution Streak"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYourAverageGamer&theme=github_dark&utcOffset=10" alt="NotYourAverageGamer's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>
     </tr>
  </table>
-</div>
+ 
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NotYourAverageGamer&theme=github_dark&utcOffset=10" alt="NotYourAverageGamer's GitHub Stats"/>
+    </tr>
+ </table>
+ </div>
