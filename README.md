@@ -30,12 +30,7 @@ I like to try developing projects in my spare time for fun or, that myself/other
 <h2 align="center" class="section-heading"> 💻 Github Stats</h2>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>   
-    </tr>
- </table>
-
- <table align="center" width="100%" height="100%" >
-    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>   
         <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=NotYourAverageGamer&theme=merko" alt="NotYourAverageGamer's Contribution Streak"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NotYourAverageGamer&theme=github_dark" alt="NotYourAverageGamer's GitHub Stats"/></td>
     </tr>
