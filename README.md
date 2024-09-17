@@ -1,7 +1,7 @@
-Hi 👋 I'm NotYourAverageGamer
+Hello 👋 I'm NotYourAverageGamer
 ====================================
 
-I like developing projects for fun that myself/others may enjoy/find use in. I also try to contribute to projects I enjoy using/support.
+I enjoy developing projects that myself/others may enjoy/find use in. I also try to contribute to projects I enjoy using/want to help support.
 
 
 <picture>
